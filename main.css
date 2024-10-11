@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+td {
+    vertical-align: top;
+    padding: 5px ;
+}
